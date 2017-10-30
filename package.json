@@ -1,0 +1,12 @@
+{
+  "name": "review",
+  "version": "1.0.0",
+  "description": "復習です",
+  "main": "test.js",
+  "repository": "https://github.com/kabasio/review.git",
+  "author": "kabashima shiori <sor.0810@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.7.9"
+  }
+}
